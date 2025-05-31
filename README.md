@@ -7,7 +7,7 @@ This is a front-end project created for learning modern UI/UX and practicing res
 
 ## 🔗 Live Demo
 
-👉 [View Live](https://ixmartfarhan.github.io/razorpay-clone)
+👉 [View Live](https://ixmartfarhan.github.io/RAZOR-PAY-CLONE/)
 
 # 🚀 Features
 
